@@ -4,6 +4,8 @@ li{
 	font-family: arial;
 	float: left;
 	width:20%;
+	text-decoration: none;
+	color:white;
 }
 body{
 	background-color:yellow;
