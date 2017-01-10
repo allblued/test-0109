@@ -4,5 +4,7 @@ li{
 	font-family: arial;
 	float: left;
 	width:100%;
-
+}
+body{
+	background-color:#dddddd;
 }
